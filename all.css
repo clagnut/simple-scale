@@ -1,0 +1,80 @@
+body {
+	font-family: Charter, "Cambria", "Roboto Slab", "Droid Serif", Georgia, serif;
+    line-height: 1.5;
+    background:#fff;
+    color: #000;
+}
+
+.tool {
+	width: 45em;
+	margin: 1.5em auto;
+}
+
+label {
+	padding-right: 1em;
+}
+
+input {
+	font-size: 1rem;
+}
+
+
+figure {
+	margin: 0;
+}
+
+table.ex--scale {
+	border-collapse: collapse;
+	width:100%;
+	margin: 0 auto;
+}
+table.ex--scale td {
+	vertical-align:baseline;
+	text-align:center;
+	padding:0 0 0.1em 0;
+	line-height: 1;
+}
+tr.ex--scale-size {
+	color: #888;
+}
+.ex--scale-interval {
+	color: #000;
+}
+
+.sampler {
+	margin: 3em auto;
+	border-top: 2px solid #888;
+	padding-top: 3em;
+}
+
+.sampler__body {
+	width: 45em;
+	margin: 0 auto;
+}
+
+.sampler__h1 {
+	margin: 0 0 0.25em 0;
+	line-height: 1;
+	text-align: center;
+}
+
+.sampler__h2 {
+	margin: 0.5em 0 0.25em 0;
+	line-height: 1;
+}
+
+.sampler__h3 {
+	margin: 0.5em 0 0.25em 0;
+	line-height: 1;
+}
+
+.sampler__h4 {
+	margin: 0.5em 0 0.25em 0;
+}
+
+.sampler__p, .sampler__small {
+	margin: 0 0 1.5em 0;
+}
+
+.sampler__small {
+}
