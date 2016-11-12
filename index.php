@@ -33,7 +33,7 @@ for ($n = -2; $n <= 18; $n++) {
 <div class="tool">
 <h1>Simple Scale</h1>
 
-<p>A type scale provides a pre-defined set of type sizes. By design this limits your choices and thus forces rigour and consistency into your typesetting. The classic typographic sequence is a modular scale; a prearranged set of harmonious proportions which have a meaningful foundation. Any single modular scale is calculated using a base size, ratio, and interval.</p>
+<p>A type scale provides a pre-defined set of type sizes. By design this limits your choices and forces rigour and consistency into your typesetting. Any single modular scale, such as the classic typographic sequence, is calculated using a base size, ratio, and interval and provides harmonious proportions with a meaningful foundation.</p>
 
 <form class="tool__form">
 <label>Base <input type="text" name="scale_base" size="2" value="<?php echo $scale_base; ?>" /></label>
